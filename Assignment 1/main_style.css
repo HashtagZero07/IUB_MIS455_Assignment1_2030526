@@ -1,0 +1,115 @@
+.first_section{
+
+    display: flex;
+    gap: 70px;
+}
+
+.second_section{
+
+    display: flex;
+    margin-top: 25px;
+    gap: 100px;
+}
+
+.third_section{
+
+    display: flex; 
+    gap: 100px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+
+.about_me{
+
+    margin-top: 50px;
+}
+.second_image{
+
+    margin-left: 100px;
+}
+
+.WID{
+
+    margin-top: 100px;
+}
+.body{
+
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.ui{
+
+    border: 2px;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(63, 148, 82);
+    
+
+}
+
+.web{
+
+    border: 2px;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+
+}
+
+.app{
+
+    border: 2px;
+    border-style: solid; 
+    padding: 20px;
+    margin: 20px;
+    background-color: blueviolet;
+
+}
+
+h1{
+
+    color: grey;
+    font-size: 50px;
+}
+
+h2{
+
+    font-size: 30px;
+}
+
+.para1{
+    color: dimgray;
+}
+
+li{
+    color: dimgray;
+}
+
+.ui_dev{
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.web_dev{
+
+    width: 50px;
+    height: 50px;
+    
+}
+
+.app_dev{
+
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+
+
